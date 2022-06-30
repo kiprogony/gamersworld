@@ -38,7 +38,7 @@ function SearchBar() {
     >
       <input
         type="text"
-        placeholder="Find games..."
+        placeholder="Search games..."
         value={inputValue}
         onChange={(e) => setInputValue(e.target.value)}
         onFocus={() => setFormMaxWidth(700)}

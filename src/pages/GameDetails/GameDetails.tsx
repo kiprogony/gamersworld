@@ -4,11 +4,11 @@ import { BackgroundImage } from 'react-image-and-background-image-fade';
 import { Button, Loading, Transition } from '../../components';
 import Carousel from './components/Carousel';
 import Info from './components/Info';
-import { gameScreenshots, gameDetails } from '../../api';
+import { gameScreenshots, gameDetails } from '../../rawg-api';
 import { Game } from '../../types/Game.types';
 import NavBar from '../../components/NavBar';
 import { RiAddLine, RiCheckLine } from 'react-icons/ri';
-import getPrice from '../../utilities/getPrice';
+import getPrice from '../../utils/getPrice';
 
 interface Props {
   cartItems: Game[],
