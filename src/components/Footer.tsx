@@ -1,9 +1,8 @@
-import Github from './Github';
+// import Github from './Github';
 
 function Footer() {
   return (
     <footer>
-      <Github username="nekusu" />
       <a
         href="https://rawg.io/apidocs"
         target="_blank"
