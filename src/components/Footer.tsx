@@ -9,7 +9,7 @@ function Footer() {
         rel="noopener noreferrer"
         className="Button"
       >
-        RAWG API
+       Learn more
       </a>
     </footer>
   );
