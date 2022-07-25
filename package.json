@@ -1,8 +1,11 @@
 {
-  "name": "shopping-cart",
+  "name": "gamersworld",
   "version": "0.1.0",
   "homepage": "https://github.com/kiprogony/gamersworld",
   "private": true,
+  "engines": {
+    "node": "17.7.1"
+  },
   "dependencies": {
     "@react-hook/window-size": "^3.0.7",
     "@testing-library/jest-dom": "^5.16.4",
