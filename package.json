@@ -18,7 +18,7 @@
     "framer-motion": "^6.3.16",
     "framer-motion-hooks": "^1.0.10",
     "framer-motion-scroll-to-hook": "^1.0.1",
-    "react": "^18.0.0",
+    "react": "^17.0.1",
     "react-cssfx-loading": "^1.1.1",
     "react-dom": "^18.0.0",
     "react-headroom": "^3.2.0",
