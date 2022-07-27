@@ -4,7 +4,7 @@
   "homepage": "https://github.com/kiprogony/gamersworld",
   "private": true,
   "engines": {
-    "node": "17.7.1"
+    "node": "16.15"
   },
   "dependencies": {
     "@react-hook/window-size": "^3.0.7",
